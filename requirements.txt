@@ -1,0 +1,3 @@
+Put all requirements in here once I know all the proper libraries
+python
+blockfrost-python
